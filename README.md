@@ -1,4 +1,4 @@
-### Starwar Planet
+## Starwar Planet
 
 ### The problem 
 Fetching planets data from Starwar API using React
