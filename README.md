@@ -4,7 +4,7 @@
 Fetching planets data from Starwar API using React
 
 ### How to run application
-- `git clone https://github.com/manasisb/Starwar_Planets.git`
+- `git clone https://github.com/manasisb/StarwarPlanets.git`
 - `npm install` : install all the dependency from package.json
 - `npm start` : this runs the code
 - Website will be available on your local host
