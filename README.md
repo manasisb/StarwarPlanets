@@ -10,3 +10,8 @@ Fetching planets data from Starwar API using React
 - Website will be available on your local host
 
 ### Website hosted on AWS: [Starwar-Planet](https://react-starwar-planets-aws.s3.us-west-2.amazonaws.com/index.html)
+
+#### Misc
+- React : 17.0.2
+- Semantic UI : 2.0.4
+
