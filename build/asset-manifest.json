@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.ffd77cf9.chunk.js",
+    "main.js.map": "/static/js/main.ffd77cf9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.382b70ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.382b70ef.js.map",
+    "static/css/2.bad41965.chunk.css": "/static/css/2.bad41965.chunk.css",
+    "static/js/2.5963fe47.chunk.js": "/static/js/2.5963fe47.chunk.js",
+    "static/js/2.5963fe47.chunk.js.map": "/static/js/2.5963fe47.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.bad41965.chunk.css.map": "/static/css/2.bad41965.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5963fe47.chunk.js.LICENSE.txt": "/static/js/2.5963fe47.chunk.js.LICENSE.txt",
+    "static/media/arrow.5b715238.gif": "/static/media/arrow.5b715238.gif",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/starwar_logo.4e44b571.png": "/static/media/starwar_logo.4e44b571.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.382b70ef.js",
+    "static/css/2.bad41965.chunk.css",
+    "static/js/2.5963fe47.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ffd77cf9.chunk.js"
+  ]
+}
