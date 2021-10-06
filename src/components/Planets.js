@@ -1,7 +1,7 @@
 import React from 'react'
 import { Table, Container } from 'semantic-ui-react';
 
-function Planets({data, load}) {
+function Planets({data}) {
     return (
         <div>
         <Container>
