@@ -7,12 +7,10 @@ import {Image} from 'semantic-ui-react';
 
 function App() {
   const [planets, setPlanets] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [show, setShow] = useState(false); 
 
   const planetsData = async () =>{
     try{
-      setLoading(true)
       let total_result = []
       let result = await fetch('https://swapi.dev/api/planets/')
       let data = await result.json();
@@ -30,7 +28,6 @@ function App() {
 
   useEffect(() => {
     planetsData()
-    setLoading(false)
   },[]);
 
   function handleClick(){
@@ -41,7 +38,7 @@ function App() {
     <div>
       <Navbar />
       <ShowResults logdata={handleClick} val={show}/>
-      {show ? (<Planets data={planets} load={loading}/>
+      {show ? (<Planets data={planets}/>
       ) : (
         <Image src={arrow} centered/>
       )}
