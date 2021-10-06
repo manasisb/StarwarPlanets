@@ -1,12 +1,10 @@
 import React from 'react'
 import { Table, Container } from 'semantic-ui-react';
-import Loading from './Loading';
 
 function Planets({data, load}) {
     return (
         <div>
         <Container>
-            {load ? <Loading/> :
         <div style={{border:'3px solid black'}}>
         <Table padded>
         <Table.Header>
@@ -36,7 +34,6 @@ function Planets({data, load}) {
         </Table.Body>
     </Table>
     </div>
-     }
     </Container>
         </div>
     )
